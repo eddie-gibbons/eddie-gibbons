@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello! I'm Eddie Gibbons.
 
-<!--
-**eddie-gibbons/eddie-gibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Soon-to-be second-year student** at Truman State University** | Math + CS | 🚀 **Future Mathmatician**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Current Focus
+
+### **Independent Study**
+- **Real Analysis**:  
+  Working through *Jay Cummings' "Real Analysis: A Long-Form Mathematics Textbook"*  
+
+### **Upcoming Courses (Fall 2025)**
+- *MATH 451*: Algebraic Structure I (Abstract Algebra)
+- *MATH 461*: Advanced Calculus I
+- *CS 260*: Object Oriented Programming
+- *CS 333*: Computer Architecture & Systems Programming
+
+---
+
+## 🔧 Projects  
+- *Some coming soon!*  
+
+---
+
+## 📝 Math Notes (WIP)  
+🔨 **[`math-notes`](https://github.com/eddie-gibbons/math-notes)**: A growing collection of LaTeX-compiled notes.  
+- **Current focus**: Real Analysis (in progress, based on *Cummings'*).  
+- *Coming soon*: Abstract Algebra (Fall 2025).
+
+*Suggestions? Open an Issue!*
+
+---
+
+## 🛠️ Skills  
+- **Languages**: Python (Intermediate), Java (Intermediate)  
+- **Tools**: Git, LaTeX, Notepad++  
+- **Learning**: C++  
+
+---
+
+## 📫 Reach Me  
+- Email: eddie.gibbons14@gmail.com
+- LinkedIn: [Link](https://www.linkedin.com/in/edward-gibbons-aa8207285/)
