@@ -1,6 +1,6 @@
 # Hello! I'm Eddie Gibbons.
 
-🌱 **Soon-to-be second-year student** at Truman State University** | Math + CS | 🚀 **Future Mathmatician**
+🌱 **Soon-to-be second-year student** at Truman State University | Math + CS | 🚀 **Future Mathmatician**
 
 ---
 
