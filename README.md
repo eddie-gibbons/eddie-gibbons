@@ -19,7 +19,8 @@
 ---
 
 ## 🔧 Projects  
-- *Some coming soon!*  
+- [*Fragile Walk*](https://github.com/eddie-gibbons/fragile-walk) (Tile-Based Puzzle Game in Java)
+- More coming soon!  
 
 ---
 
