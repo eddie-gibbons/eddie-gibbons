@@ -24,15 +24,6 @@
 
 ---
 
-## 📝 Math Notes (WIP)  
-🔨 **[`math-notes`](https://github.com/eddie-gibbons/math-notes)**: A growing collection of LaTeX-compiled notes.  
-- **Current focus**: Real Analysis (in progress, based on *Cummings'*).  
-- *Coming soon*: Abstract Algebra (Fall 2025).
-
-*Suggestions? Open an Issue!*
-
----
-
 ## 🛠️ Skills  
 - **Languages**: Python (Intermediate), Java (Intermediate)  
 - **Tools**: Git, LaTeX, Notepad++  
