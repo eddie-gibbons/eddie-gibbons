@@ -27,7 +27,7 @@
 ## 🛠️ Skills  
 - **Languages**: Python (Intermediate), Java (Intermediate)  
 - **Tools**: Git, LaTeX, Notepad++  
-- **Learning**: C++  
+- **Learning**: Rust  
 
 ---
 
