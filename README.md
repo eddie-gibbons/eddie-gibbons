@@ -1,16 +1,12 @@
 # Hello! I'm Eddie Gibbons.
 
-🌱 **Soon-to-be second-year student** at Truman State University | Math + CS | 🚀 **Future Mathmatician**
+🌱 **Second-year student** at Truman State University | Math + CS | 🚀 **Future Mathmatician**
 
 ---
 
 ## 📖 Current Focus
 
-### **Independent Study**
-- **Real Analysis**:  
-  Working through *Jay Cummings' "Real Analysis: A Long-Form Mathematics Textbook"*  
-
-### **Upcoming Courses (Fall 2025)**
+### **Current Courses (Fall 2025)**
 - *MATH 451*: Algebraic Structure I (Abstract Algebra)
 - *MATH 461*: Advanced Calculus I
 - *CS 260*: Object Oriented Programming
@@ -27,7 +23,7 @@
 ## 🛠️ Skills  
 - **Languages**: Python (Intermediate), Java (Intermediate)  
 - **Tools**: Git, LaTeX, Notepad++  
-- **Learning**: Rust  
+- **Learning**: C#  
 
 ---
 
