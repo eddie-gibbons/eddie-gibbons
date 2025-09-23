@@ -21,7 +21,8 @@
 ---
 
 ## 🛠️ Skills  
-- **Languages**: Python (Intermediate), Java (Intermediate)  
+- **Concepts**: Object Oriented Programming
+- **Languages**: Python, Java, Lua
 - **Tools**: Git, LaTeX, Notepad++  
 - **Learning**: C#  
 
