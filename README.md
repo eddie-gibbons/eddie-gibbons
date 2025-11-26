@@ -6,12 +6,13 @@
 
 ## 📖 Current Focus
 
-### **Current Courses (Fall 2025)**
-- *MATH 451*: Algebraic Structure I (Abstract Algebra)
-- *MATH 461*: Advanced Calculus I
-- *CS 260*: Object Oriented Programming
-- *CS 333*: Computer Architecture & Systems Programming
-
+### **Courses (Spring 2026)**
+- *MATH 452*: Algebraic Structure II (Abstract Algebra)
+- *MATH 440*: Topology
+- *MATH 447*: Combinatorial Analysis
+- *MATH 521*: Partial Differential Equations
+- *CS 310*: Data Structures and Algorithms
+- *PHYS 185*: College Physics
 ---
 
 ## 🔧 Projects  
