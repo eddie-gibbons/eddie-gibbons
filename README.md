@@ -23,9 +23,8 @@
 
 ## 🛠️ Skills  
 - **Concepts**: Object Oriented Programming
-- **Languages**: Python, Java, Lua
+- **Languages**: Python, Java, C#, C
 - **Tools**: Git, LaTeX, Notepad++  
-- **Learning**: C#  
 
 ---
 
